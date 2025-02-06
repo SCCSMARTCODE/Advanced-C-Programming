@@ -4,12 +4,6 @@ Welcome to the **Advanced C Programming Learning Repository**! This repository i
 
 ## Topics
 
-### Memory Management in Depth
-- [ ] Understanding stack vs. heap
-- [ ] Pointer arithmetic
-- [ ] Dynamic memory allocation (malloc, calloc, realloc, free)
-- [ ] Memory leaks and their detection
-
 ### Multi-threading with Pthreads
 - [ ] Thread creation and termination
 - [ ] Mutexes and condition variables
@@ -36,8 +30,8 @@ Welcome to the **Advanced C Programming Learning Repository**! This repository i
 - [ ] Using dlopen and dlsym
 
 ### Makefiles
-- [ ] Writing Makefiles for multi-file projects
-- [ ] Using variables and rules
+- [x] Writing Makefiles for multi-file projects
+- [x] Using variables and rules
 - [ ] Debugging with Makefile targets
 
 ### Manipulating PC Hardware
@@ -70,11 +64,6 @@ Welcome to the **Advanced C Programming Learning Repository**! This repository i
 - [ ] Creating sockets
 - [ ] Managing multiple connections
 - [ ] Secure communication (SSL/TLS)
-
-### Advanced Data Structures in C
-- [ ] Implementing linked lists, trees, and graphs
-- [ ] Priority queues and heaps
-- [ ] Hash tables
 
 ### Cross-platform Development
 - [ ] Writing portable code
